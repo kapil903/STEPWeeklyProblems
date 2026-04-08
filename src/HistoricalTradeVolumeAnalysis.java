@@ -10,7 +10,7 @@ class Trade {
     }
 }
 
-public class HistoricalTradeVolumeAnalysis {
+public class WeeklyProblems {
 
     static void mergeSort(Trade[] arr, int left, int right) {
         if (left < right) {
