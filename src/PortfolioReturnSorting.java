@@ -12,7 +12,7 @@ class Asset {
     }
 }
 
-public class PortfolioReturnSorting {
+public class WeeklyProblems {
 
     static void mergeSort(Asset[] arr, int left, int right) {
         if (left < right) {
