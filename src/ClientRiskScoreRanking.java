@@ -12,7 +12,7 @@ class Client {
     }
 }
 
-public class ClientRiskScoreRanking {
+public class WeeklyProblems {
 
     static void bubbleSort(Client[] arr) {
         int n = arr.length;
