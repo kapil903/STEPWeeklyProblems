@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class AccountIdLookupTransactionLogs {
+public class WeeklyProblems {
 
     static void linearSearch(String[] arr, String target) {
         int first = -1, last = -1;
