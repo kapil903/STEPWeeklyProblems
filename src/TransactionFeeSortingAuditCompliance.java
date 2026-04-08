@@ -12,7 +12,7 @@ class Transaction {
     }
 }
 
-public class TransactionFeeSortingAuditCompliance {
+public class WeeklyProblems {
 
     static void bubbleSort(List<Transaction> list) {
         int n = list.size();
